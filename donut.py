@@ -72,4 +72,3 @@ for i in range(1500):
     
 
 print('\ndone!')
-print('\033[94;5mFUCK U\033[0m')
